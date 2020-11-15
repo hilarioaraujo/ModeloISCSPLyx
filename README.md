@@ -45,7 +45,6 @@ LaTeX is available for many systems including Windows, Linux and Mac OS X. Check
 ## Who do I talk to? ##
 
 * Hilário Araújo (rocha.araujo@marinha.pt or explicacoesaraujo@gmail.com) and
-*
 
 ## Tutorials ##
 *Lyx: https://www.youtube.com/playlist?list=PLB6oieQ9gzTRIkCI_P53BJT5BtUpmkORQ
