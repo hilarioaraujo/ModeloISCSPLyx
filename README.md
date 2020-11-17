@@ -1,6 +1,6 @@
 # README #
 
-*ThesisENStyle Lyx - LaTeX Template - Version 0.1 (JUL/2019)*
+*ThesisISCSPStyle Lyx - LaTeX Template - Version 1.0 (NOV/2020)*
 
 This template explains the main formatting rules to apply to a Master Dissertation work for Instituto Superior de Ciências Sociais e Políticas (ISCSP) in Lisbon
 
