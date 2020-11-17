@@ -2,7 +2,7 @@
 
 *ThesisENStyle Lyx - LaTeX Template - Version 0.1 (JUL/2019)*
 
-This template explains the main formatting rules to apply to a Master Dissertation work for Portuguese Naval Academy.
+This template explains the main formatting rules to apply to a Master Dissertation work for Instituto Superior de Ciências Sociais e Políticas (ISCSP) in Lisbon
 
 **You can fork this repository to make your own dissertation based on this template.**
 
